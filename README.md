@@ -1,2 +1,2 @@
-# Data-extraction-tool_PDFs
+# ExtractPDF tool 
 ExtractPDF tool presented here, has been developed to automate information extraction from unstructured portable document format pdf files. ExtractPDF is a data extraction tool/software that provides a reliable computational workflow for extracting words or combinations of words, developed in R. ExtractPDF, is intuitive, it has broad applicability of various stages of the review process, it can act as second investigator in human-led review studies. 
