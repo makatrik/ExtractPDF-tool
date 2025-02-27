@@ -75,7 +75,7 @@ correct_fonts_pdfs <- function(inputDir, outputDir, font_family = "sans", font_s
 input_dir <- "C:\\Users\\.......\\folder"
 output_dir <- "C:\\Users\\\\Newfolder"
 
-# Run the generalized function for all PDFs in the input directory
+# Run the function for all pdfs in the input directory
 correct_fonts_pdfs(input_dir, output_dir, font_size = 8, left_shift = 0.04)
 
 
@@ -221,5 +221,5 @@ View(my_list_2_df)
 install.packages('xlsx')
 library(openxlsx)
 write.xlsx(as.data.frame(my_list_2_df), 
-  'C:\\Users\\MARK\\ONTOX\\Data_extraction_R\\DataExtraction_PDFs_CutReferences_DataExtrProject\\DataExtraction_SysRevProject\\my_list_2_df.xlsx')
+  'C:\\Users\\.......\\my_list_2_df.xlsx')
 
